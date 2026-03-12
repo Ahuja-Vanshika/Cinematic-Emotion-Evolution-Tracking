@@ -1,6 +1,6 @@
 # Data
 
-This folder contains raw and cleaned social media data collected for 10 movies from Reddit and Letterboxd.
+This folder contains raw and cleaned social media data collected for 7 movies from Reddit and Letterboxd.
 
 ## Folder Structure
 
@@ -35,6 +35,3 @@ data/
 | Interstellar | 2014 |
 | La La Land | 2016 |
 | Schindlers List | 1993 |
-| Fight Club | 1999 |
-| A Beautiful Mind | 2001 |
-| Inception | 2010 |
